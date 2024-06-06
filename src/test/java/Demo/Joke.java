@@ -1,4 +1,4 @@
-import com.fasterxml.jackson.annotation.JsonProperty;
+package Demo;
 
 public class Joke {
 
