@@ -63,6 +63,8 @@ public class Joke_Main {
 
         } catch (Exception e) {
             e.printStackTrace();
+        } finally {
+            System.out.println("API request completed");
         }
     }
 }
