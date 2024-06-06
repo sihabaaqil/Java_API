@@ -3,7 +3,6 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 public class Joke {
 
 
-
     public String getType() {
         return type;
     }
