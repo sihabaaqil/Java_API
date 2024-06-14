@@ -50,8 +50,11 @@ public class Joke_Main {
                 Joke joke = objectMapper.readValue(response.toString(), Joke.class);
 
                 // Print the Joke object
-                System.out.println(joke.getPunchline());
-                System.out.println(joke.getSetup());
+
+                System.out.println("Question : " + joke.getSetup());
+
+                System.out.println("Ans : " + joke.getPunchline());
+
                 // type of Joke which used for
                 // System.out.println(joke.getType());
 
