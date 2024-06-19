@@ -7,6 +7,10 @@
     <list default="true" id="7a338b93-e2d7-4456-a43e-7ad65c83d22b" name="Changes" comment="Array concepts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Demo/Data_driven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Demo/Data_driven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Demo/ExcelUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Demo/ExcelUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Demo/Exception_Selenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Demo/Exception_Selenium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Demo/RegisterStudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Demo/RegisterStudentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +77,7 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Average5Number">
+  <component name="RunManager" selected="TestNG.Data_driven">
     <configuration name="Average5Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo.Average5Number" />
       <module name="Java_API" />
@@ -83,13 +87,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Joke_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo.Joke_Main" />
-      <module name="Java_API" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -145,13 +142,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Data_driven" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Demo" />
+      <option name="MAIN_CLASS_NAME" value="Demo.Data_driven" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Data_driven" />
         <item itemvalue="Application.Average5Number" />
         <item itemvalue="Application.Word_Count" />
         <item itemvalue="Application.Merge2Array" />
         <item itemvalue="Application.print2largest" />
-        <item itemvalue="Application.Joke_Main" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718766768809</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Array concepts">
+      <option name="closed" value="true" />
+      <created>1718768249692</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718768249692</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
