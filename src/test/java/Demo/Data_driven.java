@@ -36,7 +36,7 @@ public class Data_driven {
 
     @DataProvider(name = "testdata")
     public Object[][] testDataExample() {
-        ReadExcelFile configuration = new ReadExcelFile("Path_of_Your_Excel_File");
+        test.ReadExcelFile configuration = new test.ReadExcelFile("Path_of_Your_Excel_File");
         int rows = configuration.getRowCount(0);
         Object[][] signin_credentials = new Object[rows][2];
 
