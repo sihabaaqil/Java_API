@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a338b93-e2d7-4456-a43e-7ad65c83d22b" name="Changes" comment="Joke API with getter &amp; Setter">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Merge2Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/MulthiThreading_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/print2largest.java" afterDir="false" />
+    <list default="true" id="7a338b93-e2d7-4456-a43e-7ad65c83d22b" name="Changes" comment="Array concepts">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Average5Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Word_Count.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Demo/Joke_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Demo/Joke_Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +51,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Average5Number.executor": "Run",
     "Application.FetchData.executor": "Run",
     "Application.Joke_Main.executor": "Run",
+    "Application.Merge2Array.executor": "Run",
     "Application.Merge2class.executor": "Run",
     "Application.MulthiThreading_Test.executor": "Run",
     "Application.MultiThreading_Test.executor": "Run",
     "Application.Test_Temp.executor": "Run",
+    "Application.Word_Count.executor": "Run",
     "Application.print2largest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -72,13 +73,13 @@
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Merge2Array">
-    <configuration name="FetchData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo.FetchData" />
+  <component name="RunManager" selected="Application.Average5Number">
+    <configuration name="Average5Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Average5Number" />
       <module name="Java_API" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo.MulthiThreading_Test" />
+          <option name="PATTERN" value="Demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MulthiThreading_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo.MulthiThreading_Test" />
+    <configuration name="Word_Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Word_Count" />
       <module name="Java_API" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo.MulthiThreading_Test" />
+          <option name="PATTERN" value="Demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Average5Number" />
+        <item itemvalue="Application.Word_Count" />
         <item itemvalue="Application.Merge2Array" />
         <item itemvalue="Application.print2largest" />
         <item itemvalue="Application.Joke_Main" />
-        <item itemvalue="Application.MulthiThreading_Test" />
-        <item itemvalue="Application.FetchData" />
       </list>
     </recent_temporary>
   </component>
@@ -235,12 +236,29 @@
       <option name="project" value="LOCAL" />
       <updated>1717693383091</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Array concepts">
+      <option name="closed" value="true" />
+      <created>1718355139175</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718355139176</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Array concepts">
+      <option name="closed" value="true" />
+      <created>1718355147402</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718355147402</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
     <MESSAGE value="Joke API with getter &amp; Setter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Joke API with getter &amp; Setter" />
+    <MESSAGE value="Array concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array concepts" />
   </component>
 </project>
