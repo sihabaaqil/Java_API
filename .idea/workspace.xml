@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a338b93-e2d7-4456-a43e-7ad65c83d22b" name="Changes" comment="Interview">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/ArrayAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Count_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Demo/Data_driven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Demo/Data_driven.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.ArrayAverage.executor": "Run",
     "Application.Average5Number.executor": "Run",
+    "Application.Count_Number.executor": "Run",
     "Application.FetchData.executor": "Run",
     "Application.Joke_Main.executor": "Run",
     "Application.Merge2Array.executor": "Run",
@@ -76,7 +76,7 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayAverage">
+  <component name="RunManager" selected="Application.Count_Number">
     <configuration name="ArrayAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo.ArrayAverage" />
       <module name="Java_API" />
@@ -103,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge2Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo.Merge2Array" />
+    <configuration name="Count_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Count_Number" />
       <module name="Java_API" />
       <extension name="coverage">
         <pattern>
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Count_Number" />
         <item itemvalue="Application.ArrayAverage" />
         <item itemvalue="TestNG.Data_driven" />
         <item itemvalue="Application.Average5Number" />
         <item itemvalue="Application.Word_Count" />
-        <item itemvalue="Application.Merge2Array" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718769077857</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Interview">
+      <option name="closed" value="true" />
+      <created>1718769308795</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1718769308795</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
