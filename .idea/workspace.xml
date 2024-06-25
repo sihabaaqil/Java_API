@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a338b93-e2d7-4456-a43e-7ad65c83d22b" name="Changes" comment="Interview">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Count_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Position_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,7 @@
     "Application.Merge2class.executor": "Run",
     "Application.MulthiThreading_Test.executor": "Run",
     "Application.MultiThreading_Test.executor": "Run",
+    "Application.Position_Array.executor": "Run",
     "Application.Test_Temp.executor": "Run",
     "Application.Word_Count.executor": "Run",
     "Application.print2largest.executor": "Run",
@@ -76,7 +77,7 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Count_Number">
+  <component name="RunManager" selected="Application.Position_Array">
     <configuration name="ArrayAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo.ArrayAverage" />
       <module name="Java_API" />
@@ -116,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Word_Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo.Word_Count" />
+    <configuration name="Position_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Position_Array" />
       <module name="Java_API" />
       <extension name="coverage">
         <pattern>
@@ -160,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Position_Array" />
         <item itemvalue="Application.Count_Number" />
         <item itemvalue="Application.ArrayAverage" />
         <item itemvalue="TestNG.Data_driven" />
         <item itemvalue="Application.Average5Number" />
-        <item itemvalue="Application.Word_Count" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718769308795</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Interview">
+      <option name="closed" value="true" />
+      <created>1718867416986</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1718867416986</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
