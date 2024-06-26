@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a338b93-e2d7-4456-a43e-7ad65c83d22b" name="Changes" comment="Interview">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Position_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Alpha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Array_Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Book_LinkedHashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Download_File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/LinkedHashSet3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/LinkedHashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Reverse_Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/SplitCharacters_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Test_GP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,39 +56,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.ArrayAverage.executor": "Run",
-    "Application.Average5Number.executor": "Run",
-    "Application.Count_Number.executor": "Run",
-    "Application.FetchData.executor": "Run",
-    "Application.Joke_Main.executor": "Run",
-    "Application.Merge2Array.executor": "Run",
-    "Application.Merge2class.executor": "Run",
-    "Application.MulthiThreading_Test.executor": "Run",
-    "Application.MultiThreading_Test.executor": "Run",
-    "Application.Position_Array.executor": "Run",
-    "Application.Test_Temp.executor": "Run",
-    "Application.Word_Count.executor": "Run",
-    "Application.print2largest.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.Data_driven.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Alpha.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayAverage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Average5Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FetchData.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Joke_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge2Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge2class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MulthiThreading_Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading_Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Position_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_Temp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Word_Count.executor&quot;: &quot;Run&quot;,
+    &quot;Application.print2largest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.Data_driven.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Position_Array">
-    <configuration name="ArrayAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo.ArrayAverage" />
+}</component>
+  <component name="RunManager" selected="Application.Alpha">
+    <configuration name="Alpha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Alpha" />
       <module name="Java_API" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Average5Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo.Average5Number" />
+    <configuration name="ArrayAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.ArrayAverage" />
       <module name="Java_API" />
       <extension name="coverage">
         <pattern>
@@ -161,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Alpha" />
         <item itemvalue="Application.Position_Array" />
         <item itemvalue="Application.Count_Number" />
         <item itemvalue="Application.ArrayAverage" />
         <item itemvalue="TestNG.Data_driven" />
-        <item itemvalue="Application.Average5Number" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718867416986</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Interview">
+      <option name="closed" value="true" />
+      <created>1719359469978</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1719359469978</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
