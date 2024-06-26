@@ -1,4 +1,4 @@
-package test;
+package Demo;
 
 public class Reverse_String {
 

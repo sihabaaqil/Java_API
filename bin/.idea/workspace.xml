@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a338b93-e2d7-4456-a43e-7ad65c83d22b" name="Changes" comment="Interview">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Alpha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Array_Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Book_LinkedHashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Download_File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/LinkedHashSet3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/LinkedHashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Reverse_Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/SplitCharacters_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo/Test_GP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Java" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sihabaaqil&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sihabaaqil/Java_API.git&quot;,
+    &quot;accountId&quot;: &quot;2fa9190f-f9ee-4337-8589-2da9794800f6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2hVfGm7YwICxvOe3is8YuHTrK0i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Alpha.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayAverage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Average5Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FetchData.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Joke_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge2Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge2class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MulthiThreading_Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading_Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Position_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_Temp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Word_Count.executor&quot;: &quot;Run&quot;,
+    &quot;Application.print2largest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.Data_driven.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Alpha">
+    <configuration name="Alpha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Alpha" />
+      <module name="Java_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.ArrayAverage" />
+      <module name="Java_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Count_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Count_Number" />
+      <module name="Java_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Position_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Position_Array" />
+      <module name="Java_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="Java_API" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Java Scratch">
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Data_driven" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Demo" />
+      <option name="MAIN_CLASS_NAME" value="Demo.Data_driven" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Alpha" />
+        <item itemvalue="Application.Position_Array" />
+        <item itemvalue="Application.Count_Number" />
+        <item itemvalue="Application.ArrayAverage" />
+        <item itemvalue="TestNG.Data_driven" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a338b93-e2d7-4456-a43e-7ad65c83d22b" name="Changes" comment="" />
+      <created>1717684071647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717684071647</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Test">
+      <option name="closed" value="true" />
+      <created>1717684688747</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717684688747</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test">
+      <option name="closed" value="true" />
+      <created>1717684701421</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717684701421</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test">
+      <option name="closed" value="true" />
+      <created>1717684728080</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717684728080</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Test">
+      <option name="closed" value="true" />
+      <created>1717684925929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717684925929</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Joke API with getter &amp; Setter">
+      <option name="closed" value="true" />
+      <created>1717685415420</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717685415420</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Joke API with getter &amp; Setter">
+      <option name="closed" value="true" />
+      <created>1717686583073</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717686583073</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Joke API with getter &amp; Setter">
+      <option name="closed" value="true" />
+      <created>1717686688074</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717686688074</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Joke API with getter &amp; Setter">
+      <option name="closed" value="true" />
+      <created>1717686847204</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717686847204</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Joke API with getter &amp; Setter">
+      <option name="closed" value="true" />
+      <created>1717693383091</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717693383091</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Array concepts">
+      <option name="closed" value="true" />
+      <created>1718355139175</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718355139176</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Array concepts">
+      <option name="closed" value="true" />
+      <created>1718355147402</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718355147402</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Array concepts">
+      <option name="closed" value="true" />
+      <created>1718766594730</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718766594731</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Array concepts">
+      <option name="closed" value="true" />
+      <created>1718766768809</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718766768809</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Array concepts">
+      <option name="closed" value="true" />
+      <created>1718768249692</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718768249692</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Interview">
+      <option name="closed" value="true" />
+      <created>1718769077857</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1718769077857</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Interview">
+      <option name="closed" value="true" />
+      <created>1718769308795</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1718769308795</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Interview">
+      <option name="closed" value="true" />
+      <created>1718867416986</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1718867416986</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Interview">
+      <option name="closed" value="true" />
+      <created>1719359469978</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1719359469978</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="Joke API with getter &amp; Setter" />
+    <MESSAGE value="Array concepts" />
+    <MESSAGE value="Interview" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interview" />
+  </component>
+</project>
