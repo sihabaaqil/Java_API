@@ -11,6 +11,7 @@ public class Reverse_String {
 			nstr = str.charAt(i) + nstr; // adds each character in front of the existing string
 		}
 		System.out.println("Reverse : " + nstr);
+
 	}
 
 	public static String reverse(String str) {
